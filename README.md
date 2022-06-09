@@ -13,3 +13,24 @@ To that goal, I have created a tool (an analysis notebook) that analyzes and vis
 ### 2) [Determine Success of Each Portfolio](whale_analysis.ipynb)
 ### 3) [Choose and Evaluate a Custom Portfolio](whale_analysis.ipynb)
 
+## Visualizations at a glance
+
+![image](https://user-images.githubusercontent.com/51159089/172903597-b556fa9e-143f-4031-9cc9-041cdcff7dc2.png)
+
+![image](https://user-images.githubusercontent.com/51159089/172903640-f294a9d6-27d8-49f7-8d01-354a371102a7.png)
+
+![image](https://user-images.githubusercontent.com/51159089/172903696-b574d844-7bd2-4a64-a082-8c80e2fb5a8a.png)
+
+![image](https://user-images.githubusercontent.com/51159089/172903745-7581888e-9c2d-482a-9420-fea080e50532.png)
+
+![image](https://user-images.githubusercontent.com/51159089/172903777-9214bd5f-8a60-4d90-8e2c-5efbccb27587.png)
+
+![image](https://user-images.githubusercontent.com/51159089/172903857-adf77749-c560-45f9-8d52-025699588f28.png)
+
+![image](https://user-images.githubusercontent.com/51159089/172903912-fe2bbb77-f055-44cd-a9b6-fc2e5602a1a9.png)
+
+![image](https://user-images.githubusercontent.com/51159089/172904006-6730157c-7cae-4987-a0ad-5f8b25b0449c.png)
+
+![image](https://user-images.githubusercontent.com/51159089/172904154-80fc0c5c-cd00-410a-8c2c-25209a939ab5.png)
+
+![image](https://user-images.githubusercontent.com/51159089/172904210-ab26aeb1-7069-4fd7-a25d-67dc844cc025.png)
